@@ -32,5 +32,8 @@
     "ts-jest": "^29.1.2",
     "typescript": "^5.2.2",
     "vite": "^5.2.0"
+  },
+  "resolutions": {
+      "nwsapi": "2.2.9"
   }
 }
